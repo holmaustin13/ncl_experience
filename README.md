@@ -1,8 +1,9 @@
 # ncl_experience
 Showcasing and documenting my 2025 National Cyber League Capture the Flag experience. 
 
-🛡️ National Cyber League — Fall 2025
-I competed in the Fall 2025 National Cyber League (NCL) season, participating in both the Individual Game and Team Game. These challenges tested practical cybersecurity skills across nine categories including OSINT, Log Analysis, Scanning & Recon, Password Cracking, Cryptography, Forensics, Web Exploitation, and Enumeration & Exploitation. I participated as stutent of SANS Technology Institute — B.S. Applied Cybersecurity 
+Introduction
+-I recently competed in the Fall 2025 National Cyber League (NCL) season, participating in both the Individual Game and Team Game. These challenges tested practical cybersecurity skills across nine categories including OSINT, Log Analysis, Scanning & Recon, Password Cracking, Cryptography, Forensics, Web Exploitation, and Enumeration & Exploitation. I participated as stutent of SANS Technology Institute — B.S. Applied Cybersecurity Program. I became interested in cybersecurity when attending the US Air Force school for Client Systems (essentially a help desk role). One of my classmates was an Information System Security Officer (ISSO) for Boeing, and recommended this program. 
+-I thoroughly enjoyed the NCL CTF. This felt like an amazing "Capstone" opportunity to showcase the skills I've developed over the past two years in this program. It was very challenging to me, but that enabled me to test my skills and forced me to develop new skills to complete the CTF challenges. 
 
 This summary highlights my strongest demonstrated skills, tools used, and areas I am actively improving.
 
